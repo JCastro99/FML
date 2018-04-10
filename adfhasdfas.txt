@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i dont know how this worksf
+=======
+qef
+>>>>>>> feature-2
